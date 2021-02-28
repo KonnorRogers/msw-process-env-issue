@@ -1,0 +1,16 @@
+{
+  "name": "mrw-process-env-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.8",
+    "msw": "^0.27.0"
+  },
+  "msw": {
+    "workerDirectory": "public"
+  }
+}
