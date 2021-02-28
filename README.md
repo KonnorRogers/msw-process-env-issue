@@ -1,7 +1,7 @@
 ## How to use
 
 ```bash
-git clone mrw-process-env-issue
+git clone https://github.com/ParamagicDev/msw-process-env-issue
 cd mrw-process-env-issue
 yarn install
 yarn start
